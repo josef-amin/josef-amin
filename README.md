@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌱 Biology student learning to code!
 
-Currently learning Python
+🐍 Currently learning Python.
 <!--
 **josef-amin/josef-amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
